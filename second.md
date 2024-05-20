@@ -40,4 +40,4 @@
 
 マークダウン記法で文字色を変更する場合は直接 HTML タグを書き込む
 
-<font style=color:red>文字色を変更<font>
+<font style=color:red>文字色を変更</font>
